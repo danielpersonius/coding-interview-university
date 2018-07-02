@@ -178,7 +178,7 @@ You need to be very comfortable in the language and be knowledgeable.
 Read more about choices:
 - [x] http://www.byte-by-byte.com/choose-the-right-language-for-your-coding-interview/
 - [x] http://blog.codingforinterviews.com/best-programming-language-jobs/
-
+    - [Google Doc](https://docs.google.com/document/d/1-Fb6ISkXmx05rkkKlvyKTOtUE119N81ThXkX53Gp_54/edit?usp=sharing)
 [See language resources here](programming-language-resources.md)
 
 You'll see some C, C++, and Python learning included below, because I'm learning. There are a few books involved, see the bottom.
