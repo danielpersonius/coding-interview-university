@@ -3,6 +3,7 @@
 ## key
 - **text**: in progress
 - ~~text~~: skipped
+- *text*: chosen from a list
 
 ## Table of Contents
 
@@ -121,27 +122,6 @@
 - [Computer Science Courses](#computer-science-courses)
 
 ---
-## How to use it
-    Fork a branch and follow the commands below
-
-`git checkout -b progress`
-
-`git remote add jwasham https://github.com/jwasham/coding-interview-university`
-
-`git fetch --all`
-
-    Mark all boxes with X after you completed your changes
-
-`git add . `
-
-`git commit -m "Marked x" `
-
-`git rebase jwasham/master `
-
-`git push --force `
-
-[More about Github-flavored markdown](https://guides.github.com/features/mastering-markdown/#GitHub-flavored-markdown)
-
 ## Don't feel you aren't smart enough
 - Successful software engineers are smart, but many have an insecurity that they aren't smart enough.
 - [The myth of the Genius Programmer](https://www.youtube.com/watch?v=0SARbwvhupQ)
@@ -173,10 +153,11 @@ Sometimes the classes are not in session so you have to wait a couple of months,
     - [x] [Cracking the Coding Interview with Author Gayle Laakmann McDowell (video)](https://www.youtube.com/watch?v=aClxtDcdpsQ)
 - [ ] How to Get a Job at the Big 4:
     - [ ] [How to Get a Job at the Big 4 - Amazon, Facebook, Google & Microsoft (video)](https://www.youtube.com/watch?v=YJZCUhxNCv8)
-- [x] Prep Course:
-    - [ ] [Software Engineer Interview Unleashed (paid course)](https://www.udemy.com/software-engineer-interview-unleashed):
+    - [Google Doc](https://docs.google.com/document/d/1LMZsyDuVP2q5HO-ScQPJKLZG9bfL1iyrzv6SlDcAmBI/edit?usp=sharing)
+- [x] ~~Prep Course:~~
+    - [ ] ~~[Software Engineer Interview Unleashed (paid course)]~~(https://www.udemy.com/software-engineer-interview-unleashed):
         - Learn how to make yourself ready for software engineer interviews from a former Google interviewer.
-    - [ ] [Python for Data Structures, Algorithms, and Interviews! (paid course)](https://www.udemy.com/python-for-data-structures-algorithms-and-interviews/):
+    - [ ] ~~[Python for Data Structures, Algorithms, and Interviews! (paid course)]~~(https://www.udemy.com/python-for-data-structures-algorithms-and-interviews/):
         - A Python centric interview prep course which covers data structures, algorithms, mock interviews and much more.
 
 ## Pick One Language for the Interview
@@ -184,7 +165,7 @@ Sometimes the classes are not in session so you have to wait a couple of months,
 You can use a language you are comfortable in to do the coding part of the interview, but for large companies, these are solid choices:
 
 - C++
-- Java
+- *Java*
 - Python
 
 You could also use these, but read around first. There may be caveats:
@@ -195,8 +176,8 @@ You could also use these, but read around first. There may be caveats:
 You need to be very comfortable in the language and be knowledgeable.
 
 Read more about choices:
-- http://www.byte-by-byte.com/choose-the-right-language-for-your-coding-interview/
-- http://blog.codingforinterviews.com/best-programming-language-jobs/
+- [x] http://www.byte-by-byte.com/choose-the-right-language-for-your-coding-interview/
+- [x] http://blog.codingforinterviews.com/best-programming-language-jobs/
 
 [See language resources here](programming-language-resources.md)
 
