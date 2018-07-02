@@ -2,7 +2,7 @@
 
 ## key
 - [X]: completed
-- [/]: in progress
+- **text**: in progress
 - ~~text~~: skipped
 
 ## Table of Contents
@@ -160,22 +160,21 @@ Sometimes the classes are not in session so you have to wait a couple of months,
 
 ## Interview Process & General Interview Prep
 
-- [X] [ABC: Always Be Coding](https://medium.com/always-be-coding/abc-always-be-coding-d5f8051afce2#.4heg8zvm4)
+- [x] [ABC: Always Be Coding](https://medium.com/always-be-coding/abc-always-be-coding-d5f8051afce2#.4heg8zvm4)
    - [Google Doc](https://docs.google.com/document/d/1SxNQO6k92XjyHVAhBZqyApkzflSmxKPzgVHMlRlE0d0/edit?usp=sharing)
-- [X] [Whiteboarding](https://medium.com/@dpup/whiteboarding-4df873dbba2e#.hf6jn45g1)
-   - [Google Doc](https://docs.google.com/document/d/1wTEDR-jGHACtJIV9qFAnvnnbT4errSOlFMadXTgQO7M/edit?usp=sharing)
-- [X] [Effective Whiteboarding during Programming Interviews](http://www.coderust.com/blog/2014/04/10/effective-whiteboarding-during-programming-interviews/)
-   - [Google Doc](https://docs.google.com/document/d/1wTEDR-jGHACtJIV9qFAnvnnbT4errSOlFMadXTgQO7M/edit?usp=sharing)
-- [X] [Demystifying Tech Recruiting](https://www.youtube.com/watch?v=N233T0epWTs)
+- [x] [Whiteboarding](https://medium.com/@dpup/whiteboarding-4df873dbba2e#.hf6jn45g1)
+    - [Google Doc](https://docs.google.com/document/d/1wTEDR-jGHACtJIV9qFAnvnnbT4errSOlFMadXTgQO7M/edit?usp=sharing)
+- [x] [Effective Whiteboarding during Programming Interviews](http://www.coderust.com/blog/2014/04/10/effective-whiteboarding-during-programming-interviews/)
+    - [Google Doc](https://docs.google.com/document/d/1wTEDR-jGHACtJIV9qFAnvnnbT4errSOlFMadXTgQO7M/edit?usp=sharing)
+- [x] [Demystifying Tech Recruiting](https://www.youtube.com/watch?v=N233T0epWTs)
    - [Google Doc](https://docs.google.com/document/d/1iYYdWTb95bzZcyvFTJHu-NVrp-erp_9_mK21zvNmX8s/edit?usp=sharing)
-- [/] Cracking The Coding Interview Set 1:
+- [ ] **Cracking The Coding Interview Set 1:**
     - [Google Doc](https://docs.google.com/document/d/1ImXilSiKFzC9dcG7-pWl_zuvwVB_orVRziATsNd9LfY/edit?usp=sharing)
-    - [/] [Gayle L McDowell - Cracking The Coding Interview (video)](https://www.youtube.com/watch?v=rEJzOhC5ZtQ)
-    - [X] [Cracking the Coding Interview with Author Gayle Laakmann McDowell (video)](https://www.youtube.com/watch?v=aClxtDcdpsQ)
+    - [ ] **[Gayle L McDowell - Cracking The Coding Interview (video)]**(https://www.youtube.com/watch?v=rEJzOhC5ZtQ)
+    - [x] [Cracking the Coding Interview with Author Gayle Laakmann McDowell (video)](https://www.youtube.com/watch?v=aClxtDcdpsQ)
 - [ ] How to Get a Job at the Big 4:
     - [ ] [How to Get a Job at the Big 4 - Amazon, Facebook, Google & Microsoft (video)](https://www.youtube.com/watch?v=YJZCUhxNCv8)
-
-- [ ] Prep Course:
+- [x] Prep Course:
     - [ ] [Software Engineer Interview Unleashed (paid course)](https://www.udemy.com/software-engineer-interview-unleashed):
         - Learn how to make yourself ready for software engineer interviews from a former Google interviewer.
     - [ ] [Python for Data Structures, Algorithms, and Interviews! (paid course)](https://www.udemy.com/python-for-data-structures-algorithms-and-interviews/):
