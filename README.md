@@ -156,9 +156,13 @@ Sometimes the classes are not in session so you have to wait a couple of months,
 ## Interview Process & General Interview Prep
 
 - [X] [ABC: Always Be Coding](https://medium.com/always-be-coding/abc-always-be-coding-d5f8051afce2#.4heg8zvm4)
+   - [Google Doc](https://docs.google.com/document/d/1SxNQO6k92XjyHVAhBZqyApkzflSmxKPzgVHMlRlE0d0/edit?usp=sharing)
 - [X] [Whiteboarding](https://medium.com/@dpup/whiteboarding-4df873dbba2e#.hf6jn45g1)
+   - [Google Doc](https://docs.google.com/document/d/1wTEDR-jGHACtJIV9qFAnvnnbT4errSOlFMadXTgQO7M/edit?usp=sharing)
 - [X] [Effective Whiteboarding during Programming Interviews](http://www.coderust.com/blog/2014/04/10/effective-whiteboarding-during-programming-interviews/)
-- [ ] [Demystifying Tech Recruiting](https://www.youtube.com/watch?v=N233T0epWTs)
+   - [Google Doc](https://docs.google.com/document/d/1wTEDR-jGHACtJIV9qFAnvnnbT4errSOlFMadXTgQO7M/edit?usp=sharing)
+- [X] [Demystifying Tech Recruiting](https://www.youtube.com/watch?v=N233T0epWTs)
+   - [Google Doc](https://docs.google.com/document/d/1iYYdWTb95bzZcyvFTJHu-NVrp-erp_9_mK21zvNmX8s/edit?usp=sharing)
 - [ ] Cracking The Coding Interview Set 1:
     - [ ] [Gayle L McDowell - Cracking The Coding Interview (video)](https://www.youtube.com/watch?v=rEJzOhC5ZtQ)
     - [ ] [Cracking the Coding Interview with Author Gayle Laakmann McDowell (video)](https://www.youtube.com/watch?v=aClxtDcdpsQ)
