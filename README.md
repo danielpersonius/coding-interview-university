@@ -1,5 +1,10 @@
 # Coding Interview Checklist
 
+## key
+- [X]: completed
+- [/]: in progress
+- ~~text~~: skipped
+
 ## Table of Contents
 
 - [What is it?](#what-is-it)
@@ -163,9 +168,10 @@ Sometimes the classes are not in session so you have to wait a couple of months,
    - [Google Doc](https://docs.google.com/document/d/1wTEDR-jGHACtJIV9qFAnvnnbT4errSOlFMadXTgQO7M/edit?usp=sharing)
 - [X] [Demystifying Tech Recruiting](https://www.youtube.com/watch?v=N233T0epWTs)
    - [Google Doc](https://docs.google.com/document/d/1iYYdWTb95bzZcyvFTJHu-NVrp-erp_9_mK21zvNmX8s/edit?usp=sharing)
-- [ ] Cracking The Coding Interview Set 1:
-    - [ ] [Gayle L McDowell - Cracking The Coding Interview (video)](https://www.youtube.com/watch?v=rEJzOhC5ZtQ)
-    - [ ] [Cracking the Coding Interview with Author Gayle Laakmann McDowell (video)](https://www.youtube.com/watch?v=aClxtDcdpsQ)
+- [/] Cracking The Coding Interview Set 1:
+    - [Google Doc](https://docs.google.com/document/d/1ImXilSiKFzC9dcG7-pWl_zuvwVB_orVRziATsNd9LfY/edit?usp=sharing)
+    - [/] [Gayle L McDowell - Cracking The Coding Interview (video)](https://www.youtube.com/watch?v=rEJzOhC5ZtQ)
+    - [X] [Cracking the Coding Interview with Author Gayle Laakmann McDowell (video)](https://www.youtube.com/watch?v=aClxtDcdpsQ)
 - [ ] How to Get a Job at the Big 4:
     - [ ] [How to Get a Job at the Big 4 - Amazon, Facebook, Google & Microsoft (video)](https://www.youtube.com/watch?v=YJZCUhxNCv8)
 
