@@ -1,7 +1,6 @@
 # Coding Interview Checklist
 
 ## key
-- [X]: completed
 - **text**: in progress
 - ~~text~~: skipped
 
